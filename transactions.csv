@@ -1,0 +1,54 @@
+InvoiceNo,Product
+INV101,Bread
+INV101,Butter
+INV101,Jam
+INV101,Bottled Water
+INV102,  bread!!
+INV102,Butter
+INV102,Eggs
+INV103,Bread
+INV103,Jam
+INV103,Bottled Water
+INV104,Bread
+INV104,Butter
+INV104,Jam
+INV104,Eggs
+INV105,Coffee
+INV105,Sugar
+INV105,Croissant
+INV105,Bottled Water
+INV106,  coffee##
+INV106,Sugar
+INV106,Milk
+INV107,Coffee
+INV107,Croissant
+INV107,Milk
+INV107,Bottled Water
+INV108,Coffee
+INV108,Sugar
+INV108,Croissant
+INV109,Pasta
+INV109,Tomato Sauce
+INV109,Parmesan
+INV109,Bottled Water
+INV110,Pasta
+INV110,Tomato Sauce
+INV110,Olive Oil
+INV111,Pasta
+INV111,Parmesan
+INV111,Olive Oil
+INV111,Bottled Water
+INV112,Pasta
+INV112,Tomato Sauce
+INV112,Parmesan
+INV113,Chips
+INV113,Soda
+INV113,Salsa
+INV114,Chips
+INV114,Soda
+INV114,Bottled Water
+INV115,Chips
+INV115,Salsa
+INV115,Bottled Water
+C901,Bread
+C902,Coffee
